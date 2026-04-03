@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iibrahim077
-- 👀 I’m interested in Computer Science, History, Geography and math.
-- 🌱 I’m currently learning Science, History and Math.
-- 📫 How to reach me: iibrahim077 on Instagram.
+- 👋 Hi, I’m Ibrahim
+- 👀 I’m interested in Computer Science, History, Geography and Music.
+- 🌱 I’m currently a Computer Science student at Fontys University of Applied Sciences.
+- 📫 How to reach me: ialloush045@gmail.com 
